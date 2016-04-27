@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./concordantiaveri00dayauoft_0318.png"; bbox 0 0 2208 3157; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2208 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2208 3156">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2208 3156; baseline 0 -2515"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2208 3156; x_wconf 95' lang='lat' dir='ltr'>    </span> <span class='ocrx_word' id='word_1_2' title='bbox 1704 758 2208 854; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1615 641 2208 758">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1615 641 2208 758">
+     <span class='ocr_line' id='line_1_2' title="bbox 1615 641 2208 758; baseline 0.013 -8"><span class='ocrx_word' id='word_1_3' title='bbox 1615 641 2208 758; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 775 670 1835 828">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 775 670 1835 828">
+     <span class='ocr_line' id='line_1_3' title="bbox 775 670 1835 735; baseline -0.004 -15"><span class='ocrx_word' id='word_1_4' title='bbox 775 670 904 726; x_wconf 45' lang='lat' dir='ltr'>‘iffi&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 917 675 1047 727; x_wconf 43' lang='lat' dir='ltr'>&amp;05³ss</span> <span class='ocrx_word' id='word_1_6' title='bbox 1076 670 1134 723; x_wconf 56' lang='lat' dir='ltr'>,fb</span> <span class='ocrx_word' id='word_1_7' title='bbox 1162 681 1379 732; x_wconf 42' lang='lat' dir='ltr'>*dmum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1411 677 1547 729; x_wconf 45' lang='grc' dir='ltr'>,ἢν</span> <span class='ocrx_word' id='word_1_9' title='bbox 1566 695 1647 731; x_wconf 57' lang='lat'>„3-</span> <span class='ocrx_word' id='word_1_10' title='bbox 1643 670 1728 735; x_wconf 53' lang='lat' dir='ltr'>J&#39;</span> <span class='ocrx_word' id='word_1_11' title='bbox 1770 698 1777 715; x_wconf 62' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1822 690 1835 708; x_wconf 61' lang='lat' dir='ltr'><em>v</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 982 765 1704 828; baseline 0.004 -7"><span class='ocrx_word' id='word_1_13' title='bbox 982 785 1039 826; x_wconf 52' lang='grc' dir='ltr'>,Α</span> <span class='ocrx_word' id='word_1_14' title='bbox 1076 787 1190 822; x_wconf 62' lang='lat' dir='ltr'>mn</span> <span class='ocrx_word' id='word_1_15' title='bbox 1204 787 1284 823; x_wconf 61' lang='lat'>025..</span> <span class='ocrx_word' id='word_1_16' title='bbox 1326 783 1470 824; x_wconf 59' lang='lat' dir='ltr'>anza-</span> <span class='ocrx_word' id='word_1_17' title='bbox 1507 765 1704 828; x_wconf 60' lang='lat' dir='ltr'>(m</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
